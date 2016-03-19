@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Luckiest+Guy); /**grease**/
+@import url(https://fonts.googleapis.com/css?family=Laila);
+body,html{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+}
+#present {
+    background-image: url("./images/elmusical.jpg");
+    height: 100%;
+    text-align: center;
+}
+.darken {
+    background-color: rgba(9, 10, 10, 0.82);
+    background-color: rgba(9, 10, 10, 0.82);
+    width: 75%; 
+    height: 80%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.title-hero{
+	color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    margin-bottom: -29px;
+}
+.subtitle{
+	color: black;
+	text-align: center;
+	color: #A680C1;
+	font-family: 'Laila', serif;
+
+}
+.center-image{
+    width: 10%;
+}
+.date{
+	color: yellow;
+	font-size: 2rem;
+	font-family: 'Laila', serif;
+}
+.ubication{
+	color: white;
+	font-family: 'Laila', serif;
+	font-size: 1.5rem;
+	margin: 0;
+}
+.info{
+	color: #A680C1;
+	font-family: 'Laila', serif;
+}
+#section-galery{
+    
+}
+.photo-album{
+    width: 70%;
+    margin: 3% 15% 0;
+
+}
