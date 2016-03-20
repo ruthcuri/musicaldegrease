@@ -55,10 +55,13 @@ body,html{
 	font-family: 'Laila', serif;
 }
 #section-galery{
-    
+    background-color: #67318E;
 }
 .photo-album{
     width: 70%;
     margin: 3% 15% 0;
+
+}
+h2{
 
 }
